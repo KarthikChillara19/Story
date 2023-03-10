@@ -1,0 +1,1 @@
+This is the first version of chapter 1 which is the s-first step for me to learn git version control.
