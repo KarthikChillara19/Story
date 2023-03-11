@@ -1,1 +1,2 @@
 This is the first version of chapter 1 which is the s-first step for me to learn git version control.
+This is the second time I'm changing this file to write some nice alien plots in the second chapter ,i.e., chapter2.txt
